@@ -15,6 +15,7 @@ python -m pip install pygame
 python -m pip install pandas
 python -m pip install rasterio
 
+- redémarrer l'ordinateur
 
 2 - Format des données en entrées
 Le format des données attendu pour un bon fonctionnement du plugin sont les suivants :
